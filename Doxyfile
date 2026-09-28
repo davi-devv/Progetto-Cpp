@@ -1,0 +1,8 @@
+PROJECT_NAME = Tree
+INPUT = .
+RECURSIVE = YES
+EXTRACT_ALL = YES
+GENERATE_LATEX = NO
+
+# Esclude la cartella Qt
+EXCLUDE = Qt
